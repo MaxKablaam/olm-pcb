@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "UserLibrary")(type "KiCad")(uri "${KIPRJMOD}/UserLibrary.pretty")(options "")(descr ""))
+)
